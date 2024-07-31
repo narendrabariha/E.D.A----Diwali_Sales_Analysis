@@ -1,2 +1,3 @@
 # E.D.A----Diwali_Sales_Analysis
 project EDA
+![image](https://github.com/user-attachments/assets/af5d7cbc-1022-41ec-83b6-d65b6024cc5e)
